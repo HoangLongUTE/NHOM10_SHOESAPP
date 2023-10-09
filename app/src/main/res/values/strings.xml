@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoesApp</string>
+    <string name="welcome_back">Hello! Welcome back, you have been missedmissed</string>
+    <string name="sign_in_Text">Sign In</string>
+    <string name="userName">Username</string>
+    <string name="passWord">Password</string>
+    <string name="loginButton">Log In</string>
+    <string name="forgotUnderline"><u>Forgot password?</u></string>
+    <string name="signInOption">Or sign in with</string>
+    <string name="signUpText"><u>SignUp</u></string>
+
+</resources>
