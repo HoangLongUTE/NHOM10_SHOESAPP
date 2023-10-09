@@ -7,6 +7,18 @@
     <string name="loginButton">Log In</string>
     <string name="forgotUnderline"><u>Forgot password?</u></string>
     <string name="signInOption">Or sign in with</string>
-    <string name="signUpText"><u>SignUp</u></string>
+    <string name="signInTextU"><u>Sign In</u></string>
+    <string name="signUpTextU"><u>Sign Up</u></string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="SignUpText2">Sign Up</string>
+    <string name="Fill">Fill your information below or register with your social account</string>
+    <string name="confirmAgreement">Terms and Conditions</string>
+    <string name="agree">Agree with</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
 
 </resources>
